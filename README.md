@@ -109,7 +109,7 @@ GEMINI_API_KEY=your_gemini_api_key_here
 --- 
 
 ### 📸 Screenshots
-Add UI screenshots or demo GIFs of your chatbot here.
+Coming Soon ...
 
 ---
 
@@ -131,8 +131,8 @@ This project is licensed under the MIT License.
 ### 👨‍💻 Author
 Omkar Yelsange
 
-🌐 LinkedIn
-💻 GitHub
+🌐 [[ LinkedIn ]:( https://www.linkedin.com/in/omkar-yelsange )]
+💻 [[ GitHub ]:( https://github.com/OmkarYelsange )]
 
 
 
