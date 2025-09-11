@@ -131,8 +131,8 @@ This project is licensed under the MIT License.
 ### 👨‍💻 Author
 Omkar Yelsange
 
-🌐 [LinkedIn( https://www.linkedin.com/in/omkar-yelsange )]
-💻 [GitHub( https://github.com/OmkarYelsange )]
+🌐 [LinkedIn](https://www.linkedin.com/in/omkar-yelsange)  
+💻 [GitHub](https://github.com/OmkarYelsange)
 
 
 
