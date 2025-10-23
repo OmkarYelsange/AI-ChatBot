@@ -105,12 +105,7 @@ Create a .env file inside backend/ with the following:
 env
 ```sh
 GEMINI_API_KEY=your_gemini_api_key_here
-```
---- 
-
-### 📸 Screenshots
-Coming Soon ...
-
+```
 ---
 
 ### 🤝 Contributing
