@@ -115,12 +115,7 @@ Contributions are welcome! 🚀
 2. Create a new branch
 3. Commit your changes
 4. Open a Pull Request
-
----
-
-### 📄 License
-This project is licensed under the MIT License.
-
+
 ---
 
 ### 📞 Contact
